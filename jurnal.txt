@@ -1,0 +1,738 @@
+                                                                                                                                                           REVIEW
+                                                                                                                                      published: 13 November 2018
+                                                                                                                                     doi: 10.3389/fpsyg.2018.02094
+
+
+
+
+                                            Domestic Violence and Education:
+                                            Examining the Impact of Domestic
+                                            Violence on Young Children,
+                                            Children, and Young People and the
+                                            Potential Role of Schools
+                                            Michele Lloyd*
+                                            The School of Education, University of Hertfordshire, Hatfield, United Kingdom
+
+
+                                            This article examines how domestic violence impacts the lives and education of
+                                            young children, children, and young people and how they can be supported within
+                                            the education system. Schools are often the service in closest and longest contact
+                                            with a child living with domestic violence; teachers can play a vital role in helping
+                                            families access welfare services. In the wake of high profile cases of child abuse and
+                                            neglect, concerns have been raised about the effectiveness of multi-agency responses
+                                            to children living with abuse. In the United Kingdom, the case of 4-year-old Daniel
+                            Edited by:      Pelka who died in 2012 following abuse and starvation by his mother, who experienced
+                         Piera Brustia,
+                                            domestic violence, and her partner, led to a serious case review. It found recording
+  Università degli Studi di Torino, Italy
+                                            systems in Daniel’s school were not used consistently, and details held by different
+                        Reviewed by:
+                     Eunice Lumsden,        agencies were not collated to enable the formation of a coherent assessment. The
+           University of Northampton,       lack of integrated working cited in the report echoes findings from previous serious
+                      United Kingdom
+                      Connie J. Beck,
+                                            case reviews. A strong correlation exists between domestic abuse and child abuse,
+            The University of Arizona,      with approximately half of all domestic violence situations involving direct child abuse.
+                         United States
+                                            Children can also be affected indirectly by violence occurring in their home by seeing
+                  *Correspondence:
+                                            or hearing it taking place. This article examines the impact of domestic violence on the
+                        Michele Lloyd
+                 m.lloyd1@herts.ac.uk       mental health of children, and the impact on their education. Violence in children’s lives
+                                            often causes disruption to their schooling and harms the quality of their educational
+                  Specialty section:
+                                            experiences and outcomes. The abuse children experience can result in emotional
+        This article was submitted to
+   Gender, Sex and Sexuality Studies,       trauma, physical and psychological barriers to learning, and disruptive behavior in
+              a section of the journal      school, while the underlying causes of these problems remain hidden. Knowing when
+              Frontiers in Psychology
+                                            and how to seek advice from multi-agency professionals is an essential part of effective
+            Received: 13 May 2018
+        Accepted: 11 October 2018
+                                            practice among school staff. Despite their vital role in identifying signs of abuse and
+      Published: 13 November 2018           signposting referral pathways, research indicates teachers often lack confidence and
+                             Citation:      knowledge for such work. The article examines how the professional learning and
+   Lloyd M (2018) Domestic Violence
+                                            professional confidence of teachers can be developed, and how recent policy and
+and Education: Examining the Impact
+       of Domestic Violence on Young        practice developments in the United Kingdom have the potential to influence work in
+Children, Children, and Young People        this area.
+    and the Potential Role of Schools.
+               Front. Psychol. 9:2094.      Keywords: domestic violence, education, early childhood, children, young people, schools, teachers, multi-
+      doi: 10.3389/fpsyg.2018.02094         agency working
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                      1                                         November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                            Domestic Violence and Education
+
+
+
+
+INTRODUCTION                                                              effects into adulthood. ACEs can be a source of long-term
+                                                                          psychological distress as well as having longitudinal effects on
+Every school is likely to have children affected by domestic              physical health, substance misuse, interpersonal violence and
+violence. The aim of this article is to examine how domestic              self-harm (Hughes et al., 2017). The ‘toxic trio’ of domestic
+violence impacts the lives of young children, children, and young         violence, substance misuse, and parental mental health problems
+people, and the potential role that schools can play in helping to        can render children at risk of harm and complex trauma.
+address their needs. Wellbeing and healthy relationships are the          Poverty all too frequently intersects with ACEs. Although poverty
+foundations of learning. The immediate and long-term costs of             is viewed as a social marker regarding the distribution of
+domestic violence can thus be high, affecting children’s education        domestic violence risk, the association is not causal (Ray, 2011).
+as well as having long-term developmental consequences.                   Domestic violence cuts across all socio-economic groups and all
+   Many types of abuse occur within the domestic sphere. In               backgrounds. Victims of all backgrounds, predominantly women,
+the United Kingdom the government definition of domestic                  face common difficulties when leaving an abusive partner.
+violence and abuse is: ‘any incident or pattern of incidents of           Research demonstrates that it is at the point of leaving, or after
+controlling, coercive, threatening behavior, violence or abuse            she has left, that a woman is in most danger (Calder and Regan,
+between those aged 16 or over who are, or have been,                      2008). It is not uncommon for victims of domestic violence to
+intimate partners or family members regardless of gender or               remain living with perpetrators, even risking their own safety,
+sexuality. The abuse can encompass, but is not limited to:                rather than risking themselves, and their children, becoming
+psychological, physical, sexual, financial, emotional’ (Home              homeless.
+Office, 2018). Although this definition applies to those aged                 Teachers are well placed to play a pivotal role in identifying
+16 or over, children also experience the harmful effects of               and responding to domestic violence since they have contact
+domestic violence, as will be examined further below. There               with children more than any other service. As emphasized
+is growing awareness of the emotional harm of domestic                    by Sterne and Poole (2010, p. 17), ‘although staff in schools
+violence, evidenced in the United Kingdom in the offense                  may not be able to stop the violence at home, they are in a
+of controlling or coercive behavior in intimate or familial               position to make a considerable difference to children’s lives.’
+relationships which has a maximum custodial sentence of                   Statistics from the Department for Education [DFE] (2017a)
+5 years, a fine or both (Home Office, 2015). As well as being             show that of the 646,120 children referred to children’s social
+affected by physical abuse, children can be affected by non-              care in England 2016–2017, the highest number of referrals,
+physical domestic abuse based on coercive control, such as                27.5%, came from the police. The second highest percentage
+isolation, continual monitoring, financial abuse, and verbal and          of referrals came from schools at 17.7% followed by health
+psychological abuse (Katz, 2016). Domestic violence is part of the        services at 14.4%. School referrals combined with education
+landscape of child protection. Government documentation on                services referrals of 2.6% means that education accounted
+child protection titled ‘Working Together to Safeguard Children’          for 20.3% of referrals overall. Once referred and assessed,
+(HM Government, 2013) details safeguarding responsibilities of            statistics show the percentage of children in need according
+professionals and organizations, and promotes a child-centered            to identified factors. In 2016–2017 (Department for Education
+approach based on the needs and views of children (Holt,                  [DFE], 2017a) the most common factor was domestic violence
+2014).                                                                    which applied to 49.9% of children in need; this incorporated
+   While the term domestic violence is used in this article, a            violence directed at children or adults in the household. The
+number of terms are present in literature such as intimate partner        second most common factor was mental health at 39.7% which
+violence and inter-parental violence, and sometimes terms are             likewise encompassed mental health of the child or adults in the
+used interchangeably. Since there is a governmental definition            household. The prevalence of domestic violence is not only high
+of domestic violence, and also for consistency, I will adopt the          among children in need but also among the wider population
+term domestic violence predominantly here. The terms intimate             with as many as one in six young people in the United Kingdom
+partner violence and inter-parental violence will be used when            reporting experiencing it during their childhood (Radford et al.,
+referring to studies that specifically adopt these terms.                 2011).
+   Domestic violence and child protection is a complex,                       Exposure to domestic violence generates a multitude of
+multifaceted area. It is common for domestic violence and,                responses and needs and it is important for children and
+as specified in this case, intimate partner violence (IPV) to             young people not to be regarded as a homogeneous group or
+co-occur with other problems: ‘children’s experiences of and              lacking the capacity for posttraumatic growth and recovery: ‘it is
+responses to IPV exposure cannot be viewed in isolation from              wrong to stereotype all children as inevitably and permanently
+other adversities and inequalities’ (Etherington and Baker, 2018,         damaged by living with domestic violence’ (Mullender et al.,
+p. 70). The co-occurrence of stressful problems in early life             2002, p. 121). Although some children experiencing domestic
+is often referred to as adverse childhood experiences (ACEs).             violence will exhibit difficulties in their schoolwork, the
+ACEs is a construct emerging from a long line of studies                  education of others will not be adversely affected: ‘some
+into traumatic events occurring in childhood such as domestic             children living with domestic abuse achieve highly in school;
+violence, sexual, physical and emotional abuse, household                 throwing themselves into school life and work can provide
+dysfunction, and neglect (Felitti et al., 1998; Dube et al., 2001).       an escape’ (Sterne and Poole, 2010, p. 23). Similarly, while
+Research studies find that having these ACEs has long-lasting             some students affected by domestic violence will experience
+
+
+Frontiers in Psychology | www.frontiersin.org                         2                                   November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                           Domestic Violence and Education
+
+
+
+educational settings as a source of continuity and security,              noted, however, these age groups are approximate and children’s
+others will experience them as challenging. It is therefore               experiences and responses will be influenced by individual needs
+essential to take into account the range of responses to                  and context.
+domestic violence among children. This article firstly looks
+at how domestic violence is conceptualized with regard to
+children, and how it affects them across different ages. This is          IMPACT ON YOUNG CHILDREN
+followed by an examination of multi-agency working between
+schools and other organizations. The importance of recognizing            The effects of domestic violence can be felt in early childhood.
+individual and family contexts is considered before analyzing             Research shows that psychosocial development is more
+prevention education in schools. Finally, recent developments             problematical among toddlers exposed to IPV who additionally
+in policy and practice in the United Kingdom are examined                 experience physical abuse (Harper et al., 2018). In some cases
+in terms of both the challenges and opportunities they                    domestic violence during early childhood leads to emotional
+pose.                                                                     problems. Among pre-school children it can cause separation
+                                                                          anxiety from the non-abusing parent, commonly their mother.
+                                                                          Pre-school children’s restricted ability for coping due to
+CONCEPTUALIZING DOMESTIC                                                  their young age means that behavioral and psychological
+VIOLENCE IN RELATION TO CHILDREN                                          disengagement is one way they react to inter-parental violence
+                                                                          (Baker and Cunningham, 2009). Pre-schoolers sensitized to
+Domestic violence is manifested in various ways and has                   the noise of family violence may cope by tuning out noise,
+been conceptualized by some as taking direct and indirect                 consequently posing difficulties for those wishing to interact
+forms. Indirect abuse can result from inter-parental violence             with them in the school setting. According to Baker and
+where children are not the subject of direct abuse. However,              Cunningham (2009), pre-school children will react to inter-
+children witnessing inter-parental violence, and hearing it               parental conflict in a variety of ways including becoming
+without necessarily seeing it, can still feel its effects: ‘While         withdrawn, anxious, engaging in repetitive play, regressive
+often characterized as witnesses to inter-parental violence,              behavior, having inhibited independence, sleep problems,
+which implies a passive role, children actively interpret,                tantrums or impaired understanding. The signs and symptoms
+attempt to predict and assess their roles in causing the                  of domestic violence and inter-parental violence are not
+violence’ (Baker and Cunningham, 2009, p. 199, emphasis                   always easily detectable. Moreover, it is difficult for staff in
+in original). Indeed, the terms direct and indirect abuse                 pre-school to know whether children’s conduct is associated with
+have been interpreted as potentially misleading and perhaps               experience of domestic violence or regular behavior expected
+simplistic. Callaghan et al. (2018, p. 1566) argue it is too              of this age group. If staff suspect abuse, and/or notice changes
+restrictive to view domestic violence as abuse between partners           in pre-school children, background checks into the home
+in an intimate dyad whereby children are perceived as                     environment will help inform their professional judgment.
+‘affected by’ the abuse: ‘Far from passive witnesses, they are            Staff can check if the child has a previous history of abuse and
+not “exposed” to violence and abuse; rather they live with                if a parent has a history of violence including toward adults
+it and experience it directly, just as adults do.’ Regarding              or animals since they are likely to be violent toward children
+children as ‘affected by’ domestic violence diminishes its impact         as well (Beckett, 2007). It is important for pre-school staff
+on them. Instead, Callaghan et al. (2018) call for children               to exchange information with other healthcare professionals
+to be recognized as direct victims of violence and abuse                  such as health visitors who work with children from birth to
+which in turn could improve professional responses to their               five. Guidelines in the United Kingdom recommend health
+needs.                                                                    visitors undertake routine screening for domestic violence and
+                                                                          share information with pre-schools and schools as appropriate.
+                                                                          The quality of the parent–child relationship also needs to
+IMPACT OF DOMESTIC VIOLENCE ON                                            be considered by pre-school staff, for example is the child
+YOUNG CHILDREN, CHILDREN, AND                                             reluctant to go home or fearful in the presence of a parent.
+YOUNG PEOPLE                                                              Early years teachers and support staff can develop strategies
+                                                                          for supporting pre-school children displaying symptoms
+Domestic violence occurs at all ages. Sterne and Poole (2010)             through giving positive feedback, focusing on desirable rather
+point out that the duration of children’s encounters with domestic        than undesirable behavior, validating the child’s feelings,
+abuse has a greater bearing on their stress levels than the               and preparing for transitions during the day (Baker and
+severity of the abuse. Harm caused by domestic violence can be            Cunningham, 2009).
+physical, emotional, behavioral, cognitive, and social, and effects
+are usually overlapping and interrelated. Although harm can be
+present across all age phases, I will differentiate by three age          IMPACT ON CHILDREN
+groups, namely young children aged 1–4, children aged 5–10, and
+young people aged 11–16 since challenges and issues arising from          Separation anxiety due to domestic violence is not limited to
+domestic violence are different across these ages. It should be           pre-schoolers and young school-aged children experiencing such
+
+
+Frontiers in Psychology | www.frontiersin.org                         3                                  November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                               Domestic Violence and Education
+
+
+
+anxiety could be clingy, and feign illness or be disruptive at              living in noisy, overcrowded accommodation which affected
+school in the hope of being sent home. In relation to the physical          their sleep. The teacher participants also noted that while
+impact of domestic violence Calder and Regan (2008) state                   children in younger age groups became withdrawn, the tendency
+effects include, but are not limited to, injury, eating problems,           was for older pupils to exhibit anger and aggression. The
+and stress-related conditions such as asthma and bronchitis.                study revealed the adverse effects on teachers themselves who
+Emotional effects, they note, are manifested in disruption to               described feeling emotionally exhausted as well as frustrated at
+schooling including non-attendance, attention and concentration             not always being able to help their students. Children living
+difficulties, sleep disturbance, withdrawal, insecurity, guilt,             in a refuge are additionally vulnerable to being teased and
+depression and low self-esteem. Behaviorally, the impact might              bullied at school due to the stigma associated with refuge
+be changes in conduct, unpredictable behavior, aggression, anger,           accommodation (Sterne and Poole, 2010). Given the multiple
+and hyperactivity. Being the perpetrator or victim of bullying              effects of domestic violence, teachers and support staff in schools
+can also ensue (Children’s Commissioner, 2018). Some children               need to be equipped with knowledge, understanding and skills to
+facing trauma at home display hypervigilance and hyperarousal               identify and respond to internalized and externalized symptoms
+at school, constantly watchful and fearful of danger (Sterne and            discussed next.
+Poole, 2010). Domestic violence can negatively affect cognitive
+skills, language development and educational attainment.
+                                                                            DOMESTIC VIOLENCE, SCHOOLS AND
+                                                                            MULTI-AGENCY WORKING
+IMPACT ON YOUNG PEOPLE
+                                                                            United Kingdom government guidelines underline the
+In older children potential indicators of domestic violence                 importance of multi-agency working in child protection
+include self-blame, depression, self-harm, suicidal ideation,               (HM Government, 2015). In order to strengthen education
+substance abuse, risk-taking behavior, criminal behavior, poor              as part of multi-professional team working the government
+social networks, disaffection with education, and eating disorders          recently made a commitment to giving schools a greater role in
+(Children’s Commissioner, 2018). Research indicates that                    forthcoming statutory guidance for safeguarding children (HM
+experiencing domestic violence has a differential impact along              Government, 2018). Despite this emphasis ‘Surprisingly little
+gender lines. Girls are more likely to internalize symptoms in              attention has been paid to the inter-organizational information
+the form of withdrawal, anxiety and depression, whereas boys,               exchange in the educational context’ (Baginsky et al., 2015,
+though still susceptible to anxiety and depression, are more                p. 355) which this article seeks to examine. The United Kingdom
+prone to externalizing symptoms through violence against peers              government’s statutory guidance for schools and colleges
+or antisocial behavior (Baldry, 2007). Research with young                  titled ‘Keeping children safe in education’ (Department for
+people found that being listened to, taken seriously, and jointly           Education [DFE], 2016) emphasizes that safeguarding children
+involved in finding solutions were key means of helping them                is everyone’s responsibility. Rather than being the exclusive
+cope; in cases where no one listened, young people felt ‘doubly             concern of the Designated Safeguarding Lead in school ‘any
+disadvantaged’ (Mullender et al., 2002, p. 121). The effects of             staff member can make a referral to children’s social care’
+domestic violence clearly have implications for student wellbeing           (Department for Education [DFE], 2016, p. 7). However, it
+and learning examined in more detail in the following section.              is evident from research and Serious Case Reviews (SCRs)
+                                                                            into child abuse and child deaths in the United Kingdom
+                                                                            that school staff are sometimes unclear about their role in the
+RESEARCH WITH SCHOOL TEACHERS                                               child protection process, and that effective training is needed
+                                                                            to enable school staff to better support children and their
+Research has demonstrated how domestic violence impacts on                  parents.
+students’ engagement in learning when living within, as well                    Serious case reviews have repeatedly cited failure to respond
+as leaving, abusive homes. Those leaving domestically violent               to early signs of abuse, poor record keeping, and sharing
+homes face the additional threat of temporary homelessness or               information too slowly as contributing to ineffective practice
+overcrowded accommodation. Research with school teachers in                 (Department for Education [DFE], 2016). The SCR into the death
+England has shown that the sequential issues of domestic violence           of 4-year-old Daniel Pelka in 2012 found that recording systems
+and homelessness can lead to unstable accommodation, with                   in his school were not used consistently, different social work
+children being re-housed frequently, obliged to live with relatives         and health organizations held partial information which was not
+or friends, or living long distances from school due to lack of local       collated to enable the formation of a coherent assessment, and
+housing (Digby and Fu, 2017). Non-permanent accommodation                   insufficient training of school staff resulted in their not being
+has an impact in the classroom through children’s lack of                   clear of their role in child protection, nor whom to contact with
+ability to participate socially and academically. Primary and               concerns (Wonnacott and Watts, 2014). Daniel was frequently
+secondary school teachers in Digby and Fu’s (2017) sample                   hungry when he went to school where he searched for food,
+spoke of the effects of homelessness on children they worked                including in bins (Lock, 2013). Although his mother said he had
+with such as lack of space at home to study, limited access to              health problems, he had further unexplained injuries which did
+a computer for homework, increased anxiety and stress, and                  not prompt a referral. His mother’s experiences of the ‘toxic trio’
+
+
+Frontiers in Psychology | www.frontiersin.org                           4                                    November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                            Domestic Violence and Education
+
+
+
+of domestic violence, substance misuse, and mental ill-health             domestic violence victims must be treated in a non-judgmental
+complicated matters further still. Lack of professional confidence        way and their complex needs recognized. Professionals, including
+among child protection workers can be a barrier to multi-agency           teachers who are the Designated Safeguarding Lead in their
+working as in the case of Daniel Pelka ‘where uncertainty and             school, require knowledge, training and strategies for inquiring
+apprehension lead to inaction’ (Baginsky et al., 2015, p. 355).           about abuse, and how to manage both disclosures and non-
+Effective child protection requires understanding of collaborative        disclosures.
+roles: ‘children are best protected when professionals are clear             The range of needs among those living with domestic violence
+about what is required of them individually and how they need             requires a professional response informed by victim context.
+to work together’ (Holt, 2014, p. 56).                                    Welfare services need to adopt an intersectional approach
+    Collaboration across agencies is similarly examined in a report       to domestic violence and its attendant issues (Ramon, 2015)
+entitled ‘The multi-agency response to children living with               whereby disability, race and ethnicity, gender, age, socio-
+domestic abuse’ (Office for Standards in Education, Children’s            economic status, immigration status, and sexual orientation of
+Services and Skills (Ofsted et al., 2017) which calls for health          children and parents alike are taken into account. Immigration
+practitioners, social workers and the police to share child               status, for instance, can be a factor in non-disclosure. In
+protection information more readily with schools. Evidence from           recognition of the importance of intersectionality Etherington
+inspections in six local authorities in England demonstrated              and Baker (2018) advocate service providers engage in reflexivity
+aspects of good practice within schools for addressing domestic           by examining whether their provision ignores or attends to
+abuse including: schools having awareness-raising assemblies;             children’s multiple social locations. The needs and access to
+disseminating posters and information booklets; hosting visits            resources of a middle-class child, for example, will differ to
+from charities and the police; counselors, play therapists and            those of a child living in persistent or recurring poverty.
+learning mentors working with child victims; and providing                An intersectional, child-centered approach is promoted by
+parents with support service information. The latter took the             Etherington and Baker (2018), one which takes into account
+form in one school of giving out pens with a telephone number             the specificity of children’s individual experiences, and is
+disguised as a bar code. Having support resources available               sensitive to the characteristics shaping their experiences. Where
+in school is an important way of informing young people’s                 interconnected factors such as domestic violence and mental
+friends of how to respond to disclosure since young people                health problems affect a family’s context, they need to be
+experiencing violence sometimes confide in their friends (Refuge,         understood and documented in conjunction with each other
+2008). Impediments identified by teachers in the inspection               rather than in isolation (Lloyd et al., 2017).
+report by Ofsted et al. (2017) included limited resources
+for working with children affected by domestic abuse; and
+psychological harm being taken less seriously than physical
+harm. The report calls on schools to prioritize education about           SCHOOL ENGAGEMENT WITH
+healthy relationships which was not always in evidence from the           DOMESTIC VIOLENCE PREVENTION
+inspections. Schools responding to domestic violence also entails         AND EDUCATION WORK
+working with parents, especially mothers who tend to be the
+non-offending parent. Working with parents requires a context-            In addition to making referrals to social care ‘Schools also have
+sensitive approach which forms the focus of the following                 an essential role in educating children about domestic abuse’
+section.                                                                  (Ofsted et al., 2017, p. 28). Yet research has revealed a lack of
+                                                                          work in school on domestic violence. A survey commissioned by
+                                                                          the domestic violence charity Refuge (2008) involving 513 young
+RECOGNIZING THE CHILD AND FAMILY                                          women aged 18–21 revealed that just 13% had learned about
+CONTEXT                                                                   domestic violence while at school and nearly 70% responded they
+                                                                          would have welcomed such lessons.
+Parental non-disclosure of domestic violence coupled with                    Engaging in prevention education and awareness raising in
+wariness toward social services have a deep-rooted history, due           school can increase domestic violence disclosure from young
+in part to feelings of guilt, shame and fear of children being            people, though research shows mixed outcomes, with increased
+taken into care. Young people themselves have expressed fears             disclosure following some educational programs but not others
+of being removed from home (Ellis et al., 2015). Research shows           (Ellis et al., 2015). Moreover, participating in a school-based
+that making a disclosure to professionals or other adults can             program results in some young people more likely to disclose to
+be traumatic for children, with instances of family members               a family member than to professionals (Ellis et al., 2015). Trust
+becoming angry and upset and holding the child responsible for            in professionals plays a key role in domestic violence disclosure.
+consequences (Children’s Commissioner, 2018). Cultural taboos             Experiences of abuse can lead to young people having diminished
+can render disclosure of domestic violence, including ‘honor-             trust in adults and in their ability to support and protect them,
+based’ violence, even more difficult for members of certain               sometimes a consequence of teachers in school not acting upon
+communities. Interventions by social workers are sometimes                student disclosure of abuse in the home (Swanston et al., 2014).
+perceived, if not directly experienced, as punitive rather than           Teachers building trust with young people is therefore of vital
+supportive. In order to facilitate identification and disclosure of       importance.
+
+
+Frontiers in Psychology | www.frontiersin.org                         5                                   November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                                   Domestic Violence and Education
+
+
+
+    Prevention programs in school are more effective when                   to research reveal they often lack the professional confidence
+promoted through whole-school policies and practices than                   and expertise to provide domestic violence prevention education
+through single-component programs or individual teachers                    and intervention support, highlighting the need for effective
+(Harne and Radford, 2008). Program evaluations also show that               staff training at both initial and continuing professional teacher
+while one-off education initiatives have some value in raising              education, and to include school nurses (Refuge, 2008).
+awareness of domestic violence, attitudinal change is better                   The content, manner and personnel delivering domestic
+sustained when learning is revisited and reinforced in subsequent           violence education in schools clearly require careful
+years (Harne and Radford, 2008). Adopting a gendered approach               consideration to enhance student engagement and handle
+is another preferred format for changing attitudes as it underlines         student vulnerability (Fox et al., 2014). Different models
+that domestic violence is rooted in unequal power relations                 of educational program delivery have been employed in
+between men and women; although men can be victims too,                     school. Some entail teachers delivering school-based initiatives
+the majority are women and they are subject to domestic                     themselves, others favor delivery from external specialists, while
+violence in more severe and repeated forms (Women’s Aid, 2009).             some opt for collaborative implementation. Although external
+Furthermore, where prevention programs in schools include a                 facilitators have specialist knowledge, expertise and experience
+male facilitator, there is a higher likelihood of boys changing their       of discussing sensitive topics with young people, teachers have
+attitudes (Ellis et al., 2006).                                             more in-depth knowledge of students and their individual
+    A more recent evaluation of a United Kingdom school-                    circumstances (Fox et al., 2014). Working in partnership with
+based domestic violence prevention program was undertaken by                external facilitators provides a way for teachers to develop their
+Fox et al. (2016). They evaluated a 6-week education program                professional learning and confidence. The respective strengths of
+(1 h each week) delivered by domestic abuse practitioners                   external specialists and teachers can be complemented through
+in seven secondary (high) schools and compared participant                  collaboration:
+questionnaire responses with those of participants in six schools
+                                                                               . . .preventive interventions when co-delivered with specialist
+not receiving the intervention program. The study had a total
+                                                                               organizations might offer the possibility for school staff to increase
+of 1,203 participants. When pre- and post-test responses were                  their skills in dealing with disclosures and subsequently help
+statistically analyzed, findings showed that boys and girls alike              improve the health and well-being of children and young people.
+who had participated in the intervention program became less                   (Ellis et al., 2015, p. 60)
+accepting of domestic violence and were more likely to seek
+help for abuse in comparison to those in the control group.                    The need for effective professional learning and training of
+Comparable degrees of attitude change occurred across those                 school staff applies to the issue of interpersonal violence too.
+who had experienced abuse and those who had not experienced                 Cross-national European research in secondary (high) schools
+it. Although those in the intervention group indicated a higher             found that teachers frequently had limited confidence and
+likelihood of engaging in help-seeking behavior from pre- to                knowledge to address the problem of interpersonal violence and
+post-test, this trend was not maintained at the 3-month follow-up           abuse (Barter et al., 2015). Findings from the study echoed
+data collection stage leading Fox et al. (2016) to argue that young         domestic violence program evaluations in that rather than
+people require more than a one-off program to persuade them of              interpersonal violence and abuse being left to the efforts of
+the benefits of seeking help for abuse. Congruent with previous             an individual teacher championing the cause, the issue should
+evaluation research, Fox et al. (2016) emphasize that in order              be addressed at institutional level as a whole-school concern.
+to help ensure the sustainability and effectiveness of prevention           Schools have an essential role to play, then, in tackling domestic
+education teachers need to be trained and supported to integrate            violence and the following section examines how recent policy
+such education into the school curriculum.                                  and practice have the potential to influence work in this area.
+    For prevention and support work in school to be effective,
+teachers themselves evidently need to feel supported by school
+processes and management (Sterne and Poole, 2010). When                     DEVELOPMENTS IN POLICY AND
+addressing the needs of children living with domestic violence              PRACTICE
+school staff should be prepared with information about services,
+signposting to external agencies, ensuring student safety, and              Following long-running campaign calls for the introduction of
+knowing what to do next following disclosure. Without this                  mandatory relationships and sex education (RSE) in schools,
+information, students could be put in a worse situation than                the United Kingdom government announced in March 2017 it
+before (Howarth et al., 2016). Just as teachers need to have                will introduce compulsory lessons in all schools in England (in
+a clear understanding of their role in safeguarding children,               Wales, Scotland and Northern Ireland RSE is expected but not
+so too they need to know the boundaries of their role.                      compulsory). Current guidance on sex education in England was
+Research warns of the dangers of teachers acting beyond their               introduced in 2000 but content has not kept pace with social
+professional scope such as asking a child to talk about their               change, especially in respect to social media, online pornography
+experiences without being suitably qualified which can have a               and ‘sexting.’ While parents will still have the right to withdraw
+traumatic effect on the child (Swanston et al., 2014). A sensitive          their child from sex education, draft government proposals have
+approach is needed to help both students and their parents                  suggested parental withdrawal should only be possible until three
+already living with domestic violence. Yet teachers’ responses              terms before the child is aged 16, after which the child should be
+
+
+Frontiers in Psychology | www.frontiersin.org                           6                                        November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                             Domestic Violence and Education
+
+
+
+able to decide to attend (Department for Education [DFE], 2018).          relevant information always shared with them (Ofsted et al.,
+Subsequent to a consultation period schools will be required to           2017). Furthermore, term time working arrangements for school
+teach the new RSE content from September 2020 (Department of              nurses mean they are not available during school holidays. Their
+Health, and Social Care and Department for Education, 2018).              restricted availability was referred to in the SCR of Daniel Pelka.
+Statutory curriculum content in schools promoting healthy                 School nurses attending relevant meetings and being employed
+relationships, and raising awareness of unhealthy relationships           during school holidays could facilitate greater consistency of
+and the unacceptability of violence in relationships, is a positive       care, better informed assessments, and improved multi-agency
+step toward equipping young people for modern-day life.                   working.
+    Another move in the right direction is the United Kingdom                 Coming to school hungry is not conducive to learning and
+government’s consultation document which proposes the                     some schools provide breakfast and breakfast clubs. Since those
+implementation of a designated senior lead for mental health in           living in poverty are at increased risk of domestic violence,
+every school and college (Department of Health, and Department            having breakfast at school at no cost, or reduced cost, can
+for Education [DOH and DFE], 2017). Educational settings                  be a valuable means to aid learning. For those impacted by
+present a valuable opportunity to promote mental wellbeing                domestic violence breakfast clubs can be an opportunity for
+and prevent mental ill-health since half of all mental health             quality time for parents and young children attending together
+conditions start by the age of 14 (World Health Organization,             (Sterne and Poole, 2010). An evaluation of breakfast clubs set up
+2013). Although 61% of schools currently offer counseling                 in high deprivation areas in the United Kingdom found reduced
+(Department of Health, and Department for Education [DOH                  hunger in students, enhanced concentration and behavior, and
+and DFE], 2017), concerns have been raised about schools’ ability         improved social skills (Graham et al., 2017). Many schools
+to resource such support coupled with the length of time students         offer homework clubs too. Those in temporary accommodation
+sometimes need to wait. There have also been long-standing                as a result of domestic violence may lack space or computer
+concerns around high referral thresholds for external support             access to do homework and homework clubs at school can be
+services such as Child and Adolescent Mental Health Services              a facilitator of learning. Extra-curricular activities and after-
+(CAMHS) which some children affected by domestic violence                 school clubs can also provide positive experiences. While the cost
+have not been accepted for due to referral criteria (Swanston             of extra-curricular activities is sometimes prohibitive, schools
+et al., 2014). Long waiting times to access such services have            can provide confidential financial assistance, although some
+been a further source of distress; the average waiting time               parents may be reluctant to seek financial help. Domestic abuse
+is 12 weeks but the longest is up to 100 weeks (Department                based on coercive control is another possible impediment to
+of Health, and Department for Education [DOH and DFE],                    participation. Because coercive control can result in the abused
+2017) during which time problems can escalate requiring                   parent, predominantly mothers, and their children becoming
+more intensive and more costly support. The government’s                  isolated and lacking opportunities for relationships with those
+consultation document proposes a 4-week waiting time for                  beyond their immediate family, after-school clubs might be
+National Health Service mental health services for children and           denied to these children but where participation is permitted they
+young people, and recommends content on mental wellbeing                  can be a means for children to develop social skills and confidence
+be part of the Personal, Social, Health and Economic education            (Katz, 2016).
+syllabus in schools. The government’s aim to implement training               Paramount to effectively supporting students is the adoption
+for the designated senior lead for mental health to all areas by          of a holistic, child-centered approach. If teachers are aware of
+2025 has been criticized for being too slow. Concerns have been           issues in students’ home lives, they will be better informed
+raised about the added pressure these proposals would place on            to provide tailored support to meet the individual needs of
+an already overstretched teaching workforce facing recruitment            students regarding their learning, and social and emotional
+and retention difficulties, and about the level of funding needed         development. School staff need to be able to confidently ask
+to ensure teachers have well-developed training for the vital             students if anything is wrong at home and take appropriate action
+role of designated senior mental health lead (Education and               (Mullender et al., 2002). Research with young people affected by
+Health and Social Care Committees, 2018). While training                  domestic violence found they valued teachers, tutors, learning
+programs can improve teachers’ confidence and skills to deal              mentors and school counselors in helping to identify abuse and
+with children’s emotional needs (Place2Be, 2015), budgetary and           access support (Howarth et al., 2016). In terms of educational
+workload pressures mean training opportunities are unlikely               attainment, additional learning support, perhaps in a one-to-
+to be available in all schools, discussed further below. With             one or small group context, could help improve the educational
+the number of young people with a diagnosable mental health               outcomes of students. This would require a sensitive approach,
+condition standing at one in ten (Department of Health, and               however, particularly as students get older and may not wish to
+Department for Education [DOH and DFE], 2017), strategies                 be singled out from peers.
+aimed at addressing the causes and symptoms of mental health                  Early intervention strategies to help children and young
+problems must be adequately resourced if they are to be effective.        people experiencing domestic violence can be strengthened
+    Another area for consideration when tackling domestic                 through organizations engaging in joined-up thinking and
+violence in children’s lives is the role of school nursing. The           working. An illustrative example is Operation Encompass, an
+number of school nurses has been reduced in recent years. They            early intervention initiative being piloted in selected areas of
+are not always represented at child in need meetings, nor is              the United Kingdom which entails police notifying a school
+
+
+Frontiers in Psychology | www.frontiersin.org                         7                                    November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                                   Domestic Violence and Education
+
+
+
+by 9 am if a child has witnessed or experienced a domestic                      increasing referrals of women with complex needs. Children and
+abuse incident the previous evening1 . A key adult at school (the               parents, predominantly mothers, living with domestic violence
+Designated Safeguarding Lead or Deputy) is informed of the case                 have been impacted by cuts to services resulting in schools
+and cascades information to teaching staff to allow immediate                   taking on a greater role in supporting them. The role played by
+and ongoing support to be given to the child. As a trauma-                      schools in supporting vulnerable children has implications for
+informed charity Operation Encompass takes into account the                     how teachers work with other agencies and in the next section
+child’s past trauma, where applicable, and the child’s responses                I will look at how there can be tension between increased school
+and coping strategies. Operation Encompass can explain to the                   autonomy and agencies working together.
+school why a child is absent or has been dropped off at school
+by someone else. The initiative is enabling police and schools to
+work in partnership to mitigate the impact of abuse and has the                 THE PARADOX OF GREATER SCHOOL
+potential to be an exemplar of collaboration.                                   AUTONOMY AND WORKING TOGETHER
+    The Freedom Programme2 is another initiative being run,
+including in schools, to teach and empower victims of domestic                  Difficulties documented in research and governmental reports
+violence to recognize signs of abuse and make positive changes                  concerning inter-organizational working may be exacerbated
+in their lives. Organizations interested in the program need to                 by government policy devolving greater power to individual
+make a commitment in terms of ensuring their staff are trained                  schools. Previously, state schools were funded by government
+in the program and have time for implementing it. The Freedom                   and run by the local authority. Academy schools, initiated under
+Programme can also work with children due to start school and                   the Labor government, and free schools under the Coalition
+has proved effective in bringing about positive change in women’s               government and subsequent Conservative government, are still
+and children’s lives.                                                           state-funded but are not overseen by the local authority; they
+    Schools play a role in providing help when dealing with the                 receive funding directly from central government affording them
+fallout of domestic violence in others ways too, such as setting up             increased budgets. With budgetary independence and increased
+practical arrangements to minimize the risk of child abduction                  autonomy for their own governance these schools are able to
+by the offending parent following parental separation (National                 set the pay and conditions for staff rather than abiding by
+Children’s Home, 1994). Volunteering at their children’s school,                national teacher pay and conditions required of local authority-
+where appropriate, can serve as a way of non-abusive parents                    run schools. Academies and free schools are attended by over
+spending more time with their children and helping to protect                   two-thirds of secondary school students and a quarter of primary
+them (Hamby, 2014).                                                             school students (Department for Education [DFE], 2017b).
+    Perhaps unsurprisingly, some teachers feel overwhelmed                      Despite academy and free schools still being expected to liaise
+dealing with issues facing both children and their parents.                     closely with local authorities on matters such as child protection
+Pressure on teachers to address problems among children and                     and safeguarding, they have greater self-determination in shaping
+parents, such as increasing mental health issues, have left some                the relationship they have with local authorities (Baginsky et al.,
+feeling they are becoming like social workers. Mullender et al.                 2015).
+(2002, p. 219) emphasize the importance of teachers listening to                   Academy and free school status also has a bearing on school
+children vulnerable to domestic violence and offering emotional                 staff training and continuing professional development (CPD)
+support:                                                                        opportunities. Although local authorities are still a provider of
+                                                                                CPD, increasingly schools are buying-in, frequently expensive,
+      This is not the same as becoming social workers, which teachers
+                                                                                CPD and training from private providers (National Association
+      understandably fear in an already over-stretched working life and
+                                                                                of Schoolmasters Union of Women Teachers [NASUWT], 2018).
+      without the necessary training. Rather, it means being an effective
+      channel for children to gain access to welfare services outside of        Schools are thus operating in a market system, especially
+      school, by opening up an early opportunity for them to confide            pertinent now the majority of secondary schools are academies
+      that something is wrong.                                                  with budgetary autonomy. Schools can choose between ‘market-
+                                                                                leading’ training providers who offer consultancy services.
+   Despite good practices taking place in schools and with                      Funding for school staff training comes, in part, from Pupil
+partner organizations, funding cuts in the United Kingdom have                  Premium grants given to schools in England to support the
+meant some support services for victims of domestic violence                    education of the most disadvantaged students. Based on rates
+are no longer available (Lloyd and Ramon, 2017; Ofsted et al.,                  for 2017–2018, for each student eligible for free school meals,
+2017). Survey findings from domestic violence support services in               their school will receive a payment of £1,320 (primary) and
+England show that 60 per cent of respondents cited funding cuts,                £935 (secondary). Current school practice is for the cost of staff
+and the associated uncertainty, as their most significant challenge             training to be paid for by Pupil Premium and from a school’s
+(Women’s Aid, 2018). Reduced funding has led to services being                  own budget. Their budgetary independence means academy and
+unable to offer support to all women and children referred to                   free schools will have greater freedom to determine the nature
+them, loss of welfare service staff, and lower capacity to deal with            and extent of staff training by external private providers. There
+                                                                                have, however, been cuts in real terms in United Kingdom
+1
+    http://www.operationencompass.org/                                          funding for education since 2010 (Belfield et al., 2018) posing
+2
+    http://www.freedomprogramme.co.uk/                                          implications for school budgets and accordingly for staff pay
+
+
+Frontiers in Psychology | www.frontiersin.org                               8                                    November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                              Domestic Violence and Education
+
+
+
+and training. A survey of 1,615 teachers found budgetary and                  academic attainment and discipline by pupils in a competitive
+workload barriers impeded their access to training: ‘Teachers                 educational “market” and, on the other, the role of schools in
+report that their school does not have enough money to fund                   recognizing and meeting the pastoral needs of children who are
+training/CPD and that external training/CPD is often very                     vulnerable or disadvantaged.
+expensive’ (National Association of Schoolmasters Union of                    Where teacher performativity and student outcome measures
+Women Teachers [NASUWT], 2018, p. 14).                                     in the form of examination results are at variance with the more
+   Greater school autonomy has additional implications for                 holistic nurturing of students, efforts to support those impacted
+Local Safeguarding Children Boards (LSCBs) whose role is to                by domestic violence could be hampered and diminished.
+coordinate local work to safeguard children. As a multi-agency             Concerns about schools becoming ‘exam factories’ have led to
+body LSCBs are attended by representatives from the local                  calls for a rebalancing of the education system whereby schools
+authority and relevant organizations such as health services and           do not give precedence to academic outcomes at the expense of
+the police. However, research by Baginsky and Holmes (2015)                student wellbeing and personal development.
+indicates that increasing fragmentation of educational services
+has seen academy schools (including free schools), and private
+fee-paying (non-state) schools being represented on less than half         CONCLUSION
+of LSCBs. While over 80 percent of boards were represented at
+senior level by local authority schools, the same was true of only         What happens in childhood and adolescence has profound
+20 percent of boards attended by academy schools (Baginsky and             implications for wellbeing in adult life. The prevalence of
+Holmes, 2015).                                                             domestic violence as the most common factor cited in cases
+                                                                           of children in need in England in 2016–2017 (Department for
+                                                                           Education [DFE], 2017a) emphasizes the need for addressing
+DOMESTIC VIOLENCE AND STUDENT                                              this enduring problem through prevention, early intervention
+WELLBEING WITHIN AN                                                        and education. So too is wider attitudinal and social change
+ATTAINMENT-DRIVEN EDUCATION                                                needed whereby domestic violence is no longer trivialized as ‘just
+                                                                           another domestic’ or portrayed as the fault of, predominantly
+SYSTEM                                                                     women, victims, as evidenced in our earlier research into media
+                                                                           representations (Lloyd and Ramon, 2017). Domestic violence
+Given the spectrum of behavioral responses to domestic
+                                                                           must be addressed as a public health concern and not only as
+violence teachers need to be attuned to changes in children,
+                                                                           a privatized, individualized problem. The ways in which gender
+some becoming withdrawn, others disruptive. Confrontational
+                                                                           violence is based on and reinforced through women’s wider
+responses can, however, be difficult to account for: ‘If underlying
+                                                                           structural inequality and lack of power in relation to men needs
+contributory factors are not obvious or understood, those
+                                                                           to be recognized if violence within the domestic sphere is to be
+children are likely to be labeled as problematic’ (Ofsted et al.,
+                                                                           tackled effectively.
+2017, p. 14). This can lead to school staff misinterpreting
+                                                                               Encouragingly there is some evidence of domestic violence
+students’ behavior and disciplinary action might ensue. Indeed,
+                                                                           research in the context of education, though it remains
+data show a growing number of students excluded from school
+                                                                           relatively under-investigated. The continuing fragmentation of
+have mental health needs (Education and Health and Social Care
+                                                                           the United Kingdom school system and plurality of school types
+Committees, 2018), and children impacted by domestic violence
+                                                                           highlight the need for increased research to evaluate schools’
+(Ofsted et al., 2017) and/or living in poverty (House of Commons
+                                                                           engagement in multi-agency working and to gain insight into
+Education Committee, 2018) are more likely to be excluded from
+                                                                           effective practice. Some teachers and school support staff are
+school in comparison to their peers. This is worrying in the
+                                                                           themselves victims of domestically violent relationships and
+context of schools focusing on examination results and league
+                                                                           workplace support would be beneficial both for individuals
+tables. Teachers and educationalists lament the marketization
+                                                                           and the school setting as a whole. Future research could
+of education whereby examination results have become a key
+                                                                           usefully ask teachers and support staff their views on their
+measure by which schools define themselves and are defined by
+                                                                           professional learning and training needs in this important area
+others, and schools are set in competition with each other in
+                                                                           of work.
+the form of league tables (Berry, 2016; Berry, 2017; Scott and
+                                                                               Too frequently blame, shame and guilt cast a shadow over
+Scott, 2018). Research with teachers shows such changes are
+                                                                           lives affected by domestic violence. Multi-agency working and
+negatively impacting teacher-student relationships and student
+                                                                           in-school education and support can help prevent abuse and
+wellbeing, with teachers reporting having less time to attend to
+                                                                           optimize outcomes for children, young people and their families
+the needs of individual students, and reporting that their own
+                                                                           living with the consequences of domestic violence.
+stress levels sometimes adversely affect their interaction with
+students (Hutchings, 2015). Baginsky et al. (2015, p. 358) discern
+tension between the prioritization of examination results and
+children’s wellbeing:
+                                                                           AUTHOR CONTRIBUTIONS
+    Potentially there may be an inherent conflict between, on the          The author confirms being the sole contributor of this work and
+    one hand, pressure on institutions to demonstrate high levels of       has approved it for publication.
+
+
+Frontiers in Psychology | www.frontiersin.org                          9                                    November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                                                            Domestic Violence and Education
+
+
+
+
+REFERENCES                                                                                         https://england.shelter.org.uk/__data/assets/pdf_file/0011/1474652/2017_12_
+                                                                                                   20_Homelessness_and_School_Children.pdf doi: 10.1001/jama.286.24.3089
+Baginsky, M., Driscoll, J., and Manthorpe, J. (2015). Thinking aloud:                          Dube, S. R., Anda, R. F., Felitti, V. J., Chapman, D. P., Williamson, D. F., and
+   decentralisation and safeguarding in English schools. J. Integr. Care 23,                       Giles, W. H. (2001). Childhood abuse, household dysfunction, and the risk of
+   352–363. doi: 10.1108/JICA-09-2015-0037                                                         attempted suicide throughout the life span, findings from the adverse childhood
+Baginsky, M., and Holmes, D. (2015). A Review of Current Arrangements for the                      experiences study. JAMA 286, 3089–3096.
+   Operation of Local Safeguarding Children Boards. London: Local Government                   Education and Health and Social Care Committees (2018). The Government’s Green
+   Association.                                                                                    Paper on Mental Health: Failing a Generation. House of Commons. Available
+Baker, L., and Cunningham, A. (2009). Inter-parental violence: the pre-schooler’s                  at: https://publications.parliament.uk/pa/cm201719/cmselect/cmhealth/642/
+   perspective and the educator’s role. Early Child. Edu. J. 37, 199–207. doi: 10.                 642.pdf
+   1007/s10643-009-0342-z                                                                      Ellis, J., Downe, S., Farrelly, N., Hollinghurst, S., and Stanley, N. (2015). “School-
+Baldry, A. (2007). “It does affect me” disruptive behaviors in preadolescents directly             based prevention and the disclosure of domestic violence,” in Domestic Violence
+   and indirectly abused at home. Eur. Psychol. 12, 29–35. doi: 10.1027/1016-9040.                 and Protecting Children, New Thinking and Approaches, eds N. Stanley and C.
+   12.1.29                                                                                         Humphreys (London: Jessica Kingsley Publishers), 50–62.
+Barter, C., Aghtaie, N., Larkins, C., Wood, M., and Stanley, N. (2015). Safeguarding           Ellis, J., Stanley, N., and Bell, J. (2006). “Prevention programmes for
+   Teenage Intimate Relationships (STIR), Connecting online and offline contexts                   children and young people”, in Domestic Violence and Child Protection:
+   and risks. Bristol: University of Bristol.                                                      Directions for Good Practice, eds C. Humphreys and N. Stanley
+Beckett, C. (2007). Child Protection, An Introduction, 2nd Edn. London: Sage                       (London: Jessica Kingsley Publishers), 69-82. doi: 10.1177/1524838016
+   Publications.                                                                                   631128
+Belfield, C., Crawford, C., and Sibieta, L. (2018). Long-run Comparisons of Spending           Etherington, N., and Baker, L. (2018). From ‘Buzzword’ to best practice: applying
+   Per Pupil Across Different Stages of Education. London: The Institute for Fiscal                intersectionality to children exposed to intimate partner violence. Trauma
+   Studies                                                                                         Violence Abuse 19, 58–75. doi: 10.1177/1524838016631128
+Berry, J. (2016). Teachers Undefeated, How Global Education Reform has Failed to               Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M.,
+   Crush the Spirit of Educators. London: UCL.                                                     Edwards, V., et al. (1998). Relationship of childhood abuse and household
+Berry, J. (2017). Putting the Test in Its Place, Teaching Well and Keeping the Number              dysfunction to many of the leading causes of death in adults, the adverse
+   Crunchers Quiet. London: UCL.                                                                   childhood experiences (ACE) study. Am. J. Prev. Med. 14, 245–258. doi: 10.
+Calder, M. C., and Regan, L. (2008). “Working with mothers in situations of sexual                 1111/lcrp.12046
+   and domestic abuse: reframing resistance as restricted choices,” in The Carrot              Fox, C. L., Corr, M.-L., Gadd, D., and Sim, J. (2016). Evaluating the effectiveness
+   or the Stick? Towards Effective Practice with Involuntary Clients in Safeguarding               of domestic abuse prevention education: are certain children more or less
+   Children Work, ed. M. C. Calder (Lyme Regis: Russell House Publishing),                         receptive to the messages conveyed? Legal Criminol. Psychol. 21, 212–227.
+   249–276.                                                                                        doi: 10.1080/14681811.2013.816949
+Callaghan, J. E. M., Alexander, J. H., Sixsmith, J., & Chiara Fellin, L. (2018). Beyond        Fox, C. L., Hale, R., and Gadd, D. (2014). Domestic abuse prevention education:
+   “Witnessing”: children’s experiences of coercive control in domestic violence                   listening to the views of young people. Sex Edu. 14, 28–41.
+   and abuse. J. Interpers. Violence 33, 1551–1581.                                            Graham, N., Puts, E., and Beadle, S. (2017). Evaluation of Breakfast Clubs in
+Children’s Commissioner (2018). “Are they Shouting Because of me?” Voices                          Schools with High Levels of Deprivation. Research Report March 2017.
+   of Children Living in Households with Domestic Abuse, Parental Substance                        Available at: https://assets.publishing.service.gov.uk/government/uploads/
+   Misuse and Mental Health Issues. London: Children’s Commissioner for                            system/uploads/attachment_data/file/603946/Evaluation_of_Breakfast_Clubs_
+   England.                                                                                        -_Final_Report.pdf
+Department for Education [DFE] (2016). Keeping Children Safe in                                Hamby, S. (2014). Battered Women’s Protective Strategies, Stronger Than You Know.
+   Education, Statutory Guidance for Schools and Colleges. Available at:                           New York, NY: Oxford University Press.
+   https://assets.publishing.service.gov.uk/government/uploads/system/uploads/                 Harne, L., and Radford, J. (2008). Tackling Domestic Violence: Theories, Policies
+   attachment_data/file/550511/Keeping_children_safe_in_education.pdf                              and Practice. Maidenhead: Open University Press. doi: 10.1177/0886260516
+Department for Education [DFE] (2017a). Characteristics of Children in Need:                       628286
+   2016 to 2017 England. Available at: https://assets.publishing.service.gov.uk/               Harper, B., Ogbonnaya, I. N., and McCullough, K. C. (2018). The effect of intimate
+   government/uploads/system/uploads/attachment_data/file/656395/SFR61-                            partner violence on the psychosocial development of toddlers. J. Interpers.
+   .(2017)_Main_text.pdf                                                                           Violence 33, 2512–2536. doi: 10.1177/0886260516628286
+Department for Education [DFE] (2017b). Schools, Pupils and their Characteristics.             HM Government (2013). Working Together to Safeguard Children, A Guide to
+   Available at: https://assets.publishing.service.gov.uk/government/uploads/                      Inter-Agency Working to Safeguard and Promote the Welfare of Children.
+   system/uploads/attachment_data/file/650547/SFR28_.(2017)_Main_Text.pdf                          London: HM Government. doi: 10.1007/978-1-137-28668-0
+Department for Education [DFE] (2018). Relationships Education, Relationships                  HM Government (2015). Information Sharing, Advice for Practitioners Providing
+   and Sex Education (RSE) and Health Education, Guidance for Governing                            Safeguarding Services to Children, Young People, Parents and Carers. London:
+   Bodies, Proprietors, Head Teachers, Principals, Senior Leadership Teams,                        HM Government.
+   Teachers. Draft for Consultation. Available at: https://consult.education.gov.              HM Government (2018). Changes to Statutory Guidance: Working Together to
+   uk/pshe/relationships-education-rse-health-education/supporting_documents/                      Safeguard Children; and New Regulations, Government Consultation Response.
+   20170718_%20Draft%20guidance%20for%20consultation.pdf                                           London: HM Government.
+Department of Health, and Department for Education [DOH and DFE] (2017).                       Holt, K. (2014). Child Protection. Basingstoke: Palgrave Macmillan.
+   Transforming Children and Young People’s Mental Health Provision: A Green                   Home Office (2015). Controlling or Coercive Behaviour in an Intimate or Family
+   Paper. Available at: https://assets.publishing.service.gov.uk/government/                       Relationship, Statutory Guidance Framework. London: Home Office doi: 10.
+   uploads/system/uploads/attachment_data/file/664855/Transforming_                                3310/phr04100
+   children_and_young_people_s_mental_health_provision.pdf                                     Home Office (2018). Domestic Violence and Abuse: New Definition. London: Home
+Department of Health, and Social Care and Department for Education (2018).                         Office doi: 10.1016/S2468-2667(17)30118-4
+   Government Response to the Consultation on Transforming Children and Young                  House of Commons Education Committee (2018). Forgotten Children: Alternative
+   People’s Mental Health Provision: A Green Paper and Next Steps. Available at:                   Provision and the Scandal of Ever Increasing Exclusions. London: House of
+   https://assets.publishing.service.gov.uk/government/uploads/system/uploads/                     Commons.
+   attachment_data/file/728892/government-response-to-consultation-on-                         Howarth E., Moore, T. H. M., Welton, N. J., Lewis, N., Stanley, N., MacMillan, H.,
+   transforming-children-and-young-peoples-mental-health.pdf                                       et al. (2016). IMPRoving outcomes for children exposed to domestic ViolencE
+Digby, A., and Fu, E. (2017). Impacts of Homelessness on Children – Research                       (IMPROVE): an evidence synthesis. Public Health Res. 4:10. doi: 10.3310/
+   with Teachers. Report by Kantar Public Commissioned by Shelter. Available at:                   phr04100.
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                             10                                             November 2018 | Volume 9 | Article 2094
+Lloyd                                                                                                                                       Domestic Violence and Education
+
+
+
+Hughes, K., Bellis, M. A., Hardcastle, K. A., Sethi, D., Butchart, A., Mikton, C.,        Radford, L., Corral, S., Bradley, C., Fisher, H., Bassett, C., Howat, N.,
+   et al. (2017). The effect of multiple adverse childhood experiences on health:            et al. (2011). Child Abuse and Neglect in the UK Today. London:
+   a systematic review and meta-analysis. Lancet Public Health 2, e356–e366.                 NSPCC
+   doi: 10.1037/vio0000111                                                                Ramon, S. (2015). Intersectionalities: intimate partner domestic violence and
+Hutchings, M. (2015). Exam Factories? The Impact of Accountability Measures on               mental health within the European context. Intersectionalities 4, 76–100.
+   Children and Young People. London: National Union of Teachers. doi: 10.1177/           Ray, L. (2011). Violence and Society. London: Sage Publications.
+   1077801216634468                                                                       Refuge (2008). Starting in School, To End Domestic Violence. Available at: http:
+Katz, E. (2016). Beyond the physical incident model: how children living with                //www.refuge.org.uk/files/Starting-in-schools.pdf
+   domestic violence are harmed by and resist regimes of coercive control. Child          Scott, D., and Scott, B. (2018). Equalities and Inequalities in the English Education
+   Abuse Rev. 25, 46–59.                                                                     System. London: University College London
+Lloyd, M., Ramon, S., Vakalopoulou, A., Videmšek, P. Meffan, C., Roszczynska-             Sterne, A., and Poole, L. (2010). Domestic Violence and Children, A Handbook for
+   Michta, J., et al. (2017). Women’s experiences of domestic violence and mental            Schools and Early Years Setting. London: Routledge.
+   health: findings from a european empowerment project. Psychol. Violence 7,             Swanston, J., Bowyer, L., and Vetere, A. (2014). Towards a richer understanding
+   478–487.                                                                                  of school-age children’s experiences of domestic violence: the voices of children
+Lloyd, M., and Ramon, S. (2017). Smoke and mirrors: U.K. newspaper                           and their mothers. Clin. Child Psychol. Psychiatry 19, 184–201. doi: 10.1177/
+   representations of intimate partner domestic violence. Violence Against Women             1359104513485082
+   23, 114–139.                                                                           Women’s Aid (2009). Domestic Violence: Frequently Asked Questions. Available
+Lock, R. (2013). Coventry Safeguarding Children Board Final Overview Report                  at: http://adventist.org.uk/__data/assets/pdf_file/0020/47036/Womens-Aid-
+   of Serious Case Review re Daniel Pelka. Available at: https://cscb-new.co.uk/             Domestic-Violence-FAQ-2009.pdf
+   downloads/Serious%20Case%20Reviews%20-%20exec.%20summaries/SCR_                        Women’s Aid (2018). Survival and Beyond: The Domestic Abuse Report
+   Archive/Coventry%20SCR%20-%20Daniel%20Pelka%20.(2013).pdf                                 2017. Available at: https://1q7dqy2unor827bqjls0c4rn-wpengine.netdna-ssl.
+Mullender, A., Hague, G., Imam, U., Kelly, L., Malos, E., and Regan, L. (2002).              com/wp-content/uploads/2018/03/Survival-and-Beyond.pdf
+   Children’s Perspectives on Domestic Violence. London: Sage Publications.               Wonnacott, J., and Watts, D. (2014). Daniel Pelka Review Retrospective Deeper
+National Association of Schoolmasters Union of Women Teachers [NASUWT]                       Analysis and Progress Report on Implementation of Recommendations, Coventry
+   (2018). Special Educational Needs (SEN), Additional Learning Needs (ALN) and              Safeguarding Children Board. Birmingham: BASW
+   Additional Support Needs (ASN) Survey Report. London: NASUWT.                          World Health Organization (2013). Mental Health Action Plan 2013-2020.
+National Children’s Home (1994). The Hidden Victims: Children and Domestic                   Available at: http://www.who.int/mental_health/action_plan_2013/en/
+   Violence. London: National Children’s Home Action for Children.
+Ofsted, Care Quality Commission, HM Inspectorate of Probation, HM                         Conflict of Interest Statement: The author declares that the research was
+   Inspectorate of Constabulary, Fire, and Rescue Services, and HM Inspectorate           conducted in the absence of any commercial or financial relationships that could
+   of Constabulary (2017). The Multi-Agency Response to Children Living with              be construed as a potential conflict of interest.
+   Domestic Abuse, Prevent, Protect and Repair. Joint Targeted Area Inspection.
+   Available at: https://assets.publishing.service.gov.uk/government/uploads/             Copyright © 2018 Lloyd. This is an open-access article distributed under the terms
+   system/uploads/attachment\_data/file/680671/JTAI\_domestic\_abuse\_18\_                of the Creative Commons Attribution License (CC BY). The use, distribution or
+   Sept\_2017.pdf                                                                         reproduction in other forums is permitted, provided the original author(s) and the
+Place2Be (2015). A Whole School Approach to Mental Health, Improving Academic             copyright owner(s) are credited and that the original publication in this journal
+   Progress and Behavioural Outcomes in Your School. London: Place2Be doi:                is cited, in accordance with accepted academic practice. No use, distribution or
+   10.4135/9781473914605                                                                  reproduction is permitted which does not comply with these terms.
+
+
+
+
+Frontiers in Psychology | www.frontiersin.org                                        11                                             November 2018 | Volume 9 | Article 2094
+
